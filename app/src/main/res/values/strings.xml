@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MoneyBoxExercise</string>
+    <string name="title">Moneybox</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+
+    <string name="isa_title">Stock &amp; Shares ISA</string>
+    <string name="isa_body">Invest Up to £20000</string>
+    <string name="gia_title">General Investment Account</string>
+    <string name="gia_body">Already reached your 20000 ISA limit\nthis year? Find out more about our General\nInvestment Account.</string>
+
+    <string name="your_moneybox">Your moneybox: </string>
+    <string name="logout">Logout</string>
+    <string name="connection_over">Your connection session is over. Please login again.</string>
+    <string name="continue_">Continue</string>
+
+    <string name="empty_email">Email field is empty</string>
+    <string name="empty_password">Password field is empty</string>
+    <string name="email_no_valid">Your email is not valid</string>
+
+    <string name="no_internet">There is no internet connection.</string>
+    <string name="no_valid_connection">Login is not complete. Please try again.</string>
+
+    <string name="question_logout">Do you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">NO</string>
+
+    <string name="addMoney">Add £10 to my moneybox</string>
+</resources>
